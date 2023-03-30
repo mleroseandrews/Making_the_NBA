@@ -1,8 +1,8 @@
-# Making_the_NBA
-## Objective
+## Making_the_NBA
+# Objective
 Creating a model to predict whether a college basketball player will be drafted into the NBA.  
 
-## Hypothesis
+# Hypothesis
 We predict that the higher the average field goal percentage the more likely to be drafted into the NBA.
 
 # Data Source
