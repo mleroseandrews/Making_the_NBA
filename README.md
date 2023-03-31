@@ -1,6 +1,6 @@
 ## Making_the_NBA
 # Objective
-Creating a model to predict whether a college basketball player will be drafted into the NBA.  
+Creating a model to predict whether a college basketball player will be drafted into the NBA.  We will be using data from drafted and undrafted players.   
 
 # Hypothesis
 We predict that the higher the average field goal percentage the more likely to be drafted into the NBA.
@@ -9,6 +9,7 @@ We predict that the higher the average field goal percentage the more likely to 
 Kaggle - https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021
 
 # Technologies
-Mongo Database
-Jupyter Notebook
-Tableau
+-Mongo Database
+-Python
+  -Jupyter Notebook
+-Tableau
