@@ -1,6 +1,6 @@
 ## Making_the_NBA
 # Objective
-Creating a model to predict whether a college basketball player will be drafted into the NBA.  We will be using data from drafted and undrafted players.   
+Creating a model to predict whether a college basketball player will be drafted into the NBA.  We will be using data from drafted and undrafted players. Using machine learning we will perform logistical regression model and/or neural networks that will take and compile all the college data from 2009 to 2021 to predict which player will go to the NBA.   
 
 # Hypothesis
 We predict that the higher the average field goal percentage the more likely to be drafted into the NBA.
