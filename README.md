@@ -10,4 +10,4 @@ Kaggle - https://barttorvik.com/playerstat.php?link=y&minGP=1&year=2023&minmin=0
 
 # Technologies
 Mongo Database
-Jupiter Noteboook
+Tableau
