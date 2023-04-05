@@ -1,0 +1,124 @@
+CBB_09_21_Stats
+-
+player_name PK string
+team string
+conf string
+yr string
+ht string
+type string
+year string
+GP int
+FTM int
+FTA int
+twoPM int
+twoPA int
+TPM int
+TPA int
+pid int
+Min_per float
+Ortg float
+usg float
+eFG float
+TS_per float
+ORB_per float
+DRB_per float
+AST_per float
+TO_per float
+FT_per float
+twoP_per float
+TP_per float
+blk_per float
+stl_per float
+ftr float
+porpag float
+adjoe float
+pfr float
+drtg float
+adrtg float
+dporpag float
+stops float
+bpm float
+obpm float
+dbpm float
+gbpm float
+mp float
+ogbpm float
+dgbpm float
+oreb float
+dreb float
+treb float
+ast float
+stl float
+blk float
+pt float
+Unnamed_65 float
+
+
+DraftedPlayers2009-2021
+-
+PLAYER string FK >- CBB_09_21_Stats.player_name
+TEAM string
+AFFILIATION string
+YEAR string
+ROUND_NUMBER int
+ROUND_PICK int
+OVERALL_PICK int
+
+
+CBB_22_Stats
+-
+player_name PK string
+team string
+conf string
+yr string
+ht string
+type string
+year string
+GP int
+FTM int
+FTA int
+twoPM int
+twoPA int
+TPM int
+TPA int
+pid int
+Min_per float
+Ortg float
+usg float
+eFG float
+TS_per float
+ORB_per float
+DRB_per float
+AST_per float
+TO_per float
+FT_per float
+twoP_per float
+TP_per float
+blk_per float
+stl_per float
+ftr float
+porpag float
+adjoe float
+pfr float
+drtg float
+adrtg float
+dporpag float
+stops float
+bpm float
+obpm float
+dbpm float
+gbpm float
+mp float
+ogbpm float
+dgbpm float
+oreb float
+dreb float
+treb float
+ast float
+stl float
+blk float
+pt float
+Unnamed_65 float
+
+
+
