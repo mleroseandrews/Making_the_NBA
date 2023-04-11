@@ -9,7 +9,10 @@ We predict that the higher the average field goal percentage the more likely to 
 Kaggle - https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021
 
 # Technologies
--Mongo Database
--Python
-  -Jupyter Notebook
--Tableau
+Mongo Database
+
+Python
+
+Jupyter Notebook
+
+Tableau --  Emily & Princeton  https://public.tableau.com/app/profile/emily.andrews6944/viz/NBA_16812415485930/DraftedSchools?publish=yes
