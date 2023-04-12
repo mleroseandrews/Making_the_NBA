@@ -15,4 +15,6 @@ Python
 
 Jupyter Notebook
 
-Tableau --  Emily & Princeton  https://public.tableau.com/app/profile/emily.andrews6944/viz/NBA_16812415485930/DraftedSchools?publish=yes
+Tableau --  Emily & Princeton  
+- https://public.tableau.com/app/profile/emily.andrews6944/viz/NBA_16812415485930/DraftedSchools?publish=yes
+- https://public.tableau.com/app/profile/princeton.duarte/viz/NBADraft_16812599998170/Sheet1
