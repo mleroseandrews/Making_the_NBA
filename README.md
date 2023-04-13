@@ -13,10 +13,9 @@ Kaggle - https://www.kaggle.com/datasets/adityak2003/college-basketball-players-
 -dropped  columns with a high percentage of nulls.......blah
 2. Create visualizations in Tableau
 -Discovered that the position, conference, average offensive rebounding, average assist, or last year in college did not have substancial differences in the drafted versus undrafted players
---insert image
 -The School attended, average defensive rebounds & average points did have a substantial difference in the drafted versus undrafted players.    
---insert image
--88% of the drafted players are between 6 & 7 feet tall.    
+-88% of the drafted players are between 6 & 7 feet tall.  
+3. Create a machine learning model to predict if a player will be drafted in the NBA
 
 # Technologies
 Mongo Database
