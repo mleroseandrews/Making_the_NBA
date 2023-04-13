@@ -27,7 +27,7 @@ Jupyter Notebook
 
 Tableau --  Emily & Princeton 
 Dashboard - Stats that have substantial difference depending on drafted vs undrafted
-![Image](NBA Difference.png)
+![Image](/NBA Difference.png)
 - https://public.tableau.com/app/profile/emily.andrews6944/viz/NBADashboardDifference/Dashboard2?publish=yes
 Dashboard - Stats that do not have substantial difference depending on drafted vs undrafted
 -https://public.tableau.com/app/profile/emily.andrews6944/viz/NBADashboardNoDifference/Dashboard1?publish=yes
