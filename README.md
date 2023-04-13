@@ -27,10 +27,10 @@ Jupyter Notebook
 
 Tableau --  Emily & Princeton 
 
-# The following stats made a substantial difference depending on drafted vs undrafted players
+## The following stats made a substantial difference depending on drafted vs undrafted players
 ![NBA Difference.png](https://github.com/mleroseandrews/Making_the_NBA/blob/Tableau/NBA%20Difference.png)
 - https://public.tableau.com/app/profile/emily.andrews6944/viz/NBADashboardDifference/Dashboard2?publish=yes
-# The following stats did not make a substantial difference depending on drafted vs undrafted players
+## The following stats did not make a substantial difference depending on drafted vs undrafted players
 ![NBA No Difference.png](https://github.com/mleroseandrews/Making_the_NBA/blob/Tableau/NBA%20No%20Difference.png)
 -https://public.tableau.com/app/profile/emily.andrews6944/viz/NBADashboardNoDifference/Dashboard1?publish=yes
 
