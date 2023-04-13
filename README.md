@@ -11,3 +11,6 @@ Kaggle - https://barttorvik.com/playerstat.php?link=y&minGP=1&year=2023&minmin=0
 # Technologies
 Mongo Database
 Tableau
+
+ML-Model
+https://colab.research.google.com/github/mleroseandrews/Making_the_NBA/blob/MachineLearning/ML_Model_First_Successful.ipynb
