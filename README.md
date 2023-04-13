@@ -13,4 +13,4 @@ Mongo Database
 Tableau
 
 ML-Model
-https://colab.research.google.com/drive/1w99lRy5LZValSa113jpezV8RXziOA5R-#scrollTo=tbISetfucchc
+https://colab.research.google.com/github/mleroseandrews/Making_the_NBA/blob/MachineLearning/ML_Model_First_Successful.ipynb
