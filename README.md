@@ -8,7 +8,7 @@ We predict that the higher the average field goal percentage the more likely to 
 # Data Source
 Kaggle - https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021
 
-#Overview
+# Overview
 1. Clean the data
 -dropped  columns with a high percentage of nulls.......blah
 2. Create visualizations in Tableau
@@ -27,9 +27,10 @@ Jupyter Notebook
 
 Tableau --  Emily & Princeton 
 Dashboard - Stats that have substantial difference depending on drafted vs undrafted
+![Image](NBA Difference.png)
 - https://public.tableau.com/app/profile/emily.andrews6944/viz/NBADashboardDifference/Dashboard2?publish=yes
 Dashboard - Stats that do not have substantial difference depending on drafted vs undrafted
-https://public.tableau.com/app/profile/emily.andrews6944/viz/NBADashboardNoDifference/Dashboard1?publish=yes
+-https://public.tableau.com/app/profile/emily.andrews6944/viz/NBADashboardNoDifference/Dashboard1?publish=yes
 
 Individual Stats
 - https://public.tableau.com/app/profile/princeton.duarte/viz/NBADraft_16812599998170/Sheet1
