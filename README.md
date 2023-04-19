@@ -10,7 +10,10 @@ Kaggle - https://www.kaggle.com/datasets/adityak2003/college-basketball-players-
 
 # Overview
 1. Clean the data
-- dropped  columns with a high percentage of nulls.......blah
+- Dropped fields with a high percentage of nulls. Some of these fields were just populated for players who were drafted, which would be a clear indicator or drafted or not causing the model to be overfitted to the data and incorrectly predict new data.
+- Transformed height column from date format to total inches.
+- Grouped and average player stats based on player ID (pid).
+- Filtered out conferences that didn't have any NBA draftees and players who averaged less than 8 games played per year.
 2. Create visualizations in Tableau
 - Discovered that the position, conference, average offensive rebounding, average assist, or last year in college did not have substancial differences in the drafted versus undrafted players
 - The School attended, average defensive rebounds & average points did have a substantial difference in the drafted versus undrafted players.    
