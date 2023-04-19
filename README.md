@@ -28,6 +28,8 @@ Python
 
 Jupyter Notebook
 
+Google Collab
+
 Tableau --  Emily & Princeton 
 
 ## The following stats made a substantial difference depending on drafted vs undrafted players
