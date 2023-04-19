@@ -34,7 +34,7 @@ Tableau --  Emily & Princeton
 -https://public.tableau.com/app/profile/emily.andrews6944/viz/NBADashboardNoDifference/Dashboard1?publish=yes
 ## Below is the Overall Dashboard:
 ![Making_the_NBA_Dashboard_4.17.23.PNG](https://github.com/mleroseandrews/Making_the_NBA/blob/Tableau/Making_the_NBA_Dashboard_4.17.23.PNG)
-
+- https://public.tableau.com/app/profile/tyler.evans6984/viz/Making_the_NBA_Dashboard/Making_the_NBA_Dashboard
  --- 
 
 
