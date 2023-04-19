@@ -10,12 +10,16 @@ Kaggle - https://www.kaggle.com/datasets/adityak2003/college-basketball-players-
 
 # Overview
 1. Clean the data
--dropped  columns with a high percentage of nulls.......blah
+- dropped  columns with a high percentage of nulls.......blah
 2. Create visualizations in Tableau
--Discovered that the position, conference, average offensive rebounding, average assist, or last year in college did not have substancial differences in the drafted versus undrafted players
--The School attended, average defensive rebounds & average points did have a substantial difference in the drafted versus undrafted players.    
--88% of the drafted players are between 6 & 7 feet tall.  
+- Discovered that the position, conference, average offensive rebounding, average assist, or last year in college did not have substancial differences in the drafted versus undrafted players
+- The School attended, average defensive rebounds & average points did have a substantial difference in the drafted versus undrafted players.    
+- 88% of the drafted players are between 6 & 7 feet tall.  
 3. Create a machine learning model to predict if a player will be drafted in the NBA
+- Utilized Python in a Jupyter Notebook opened up in Google Collab to create and test the Neural Network.
+- Many things were learned during the creation of the NN such as: having stats that only exist on the data you want to be positive will train the NN to only look for the presence of that one stat.
+- Having enough good useable data, that isn't just refactorings of other data already present in the set is highly important.
+- Knowing what type of ML model to use is just as important as the usefulness of the data.
 
 # Technologies
 Mongo Database
@@ -23,6 +27,8 @@ Mongo Database
 Python
 
 Jupyter Notebook
+
+Google Collab
 
 Tableau --  Emily & Princeton 
 
